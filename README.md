@@ -1,10 +1,11 @@
 <a name="readme-top"></a>
 
-  <h3><b>Rails React OneApp</b></h3>
+  <h3><b>Rails React Two Apps</b></h3>
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [🛠 Link to the Frontend](#front-end)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -25,17 +26,15 @@
 
 **[Rails-React-OneApp]** is a web application that allows users to fetch a random greeting from Rails API. It's built using Rails, React, Redux.
 
+## 🛠 Link to the Frontend <a name="front-end"></a>
+
+- [Link](https://github.com/codedit334/hello-react-front-end/pull/1)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Client</summary>
-  <ul>
-    <li><a href="#">React</a></li>
-    <li><a href="#">Redux</a></li>
-  </ul>
-
   <summary>Server</summary>
   <ul>
     <li><a href="#">Ruby on rails</a></li>
@@ -51,8 +50,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Fetch Greeting from API]**
-- **[One page app]**
+- **[API Endpoint]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,12 +66,11 @@ Ruby version >= 3.0.0
 Clone this repository to your desired folder:
 sh
 cd my-folder
-git clone https://github.com/codedit334/my_new_rails_app.git
+git clone https://github.com/codedit334/hello-rails-back-end.git
 
 ### Install:
 
 Run: bundle install
-Run: npm install
 
 ### Start:
 1. Run: npm run build
@@ -97,7 +94,7 @@ Run: rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Style the app]**
+- **[Multiple Greetings API endpoint]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +102,7 @@ Run: rspec
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/codedit334/my_new_rails_app/issues).
+Feel free to check the [issues page](https://github.com/codedit334/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
